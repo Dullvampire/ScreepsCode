@@ -14,4 +14,4 @@ module.exports = {
     priority: 0,
 
     creepId: null
-}
+};

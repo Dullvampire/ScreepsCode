@@ -12,4 +12,4 @@ if (!Memory.taskNumber) {
 
 module.exports.loop = function () {
 
-}
+};
