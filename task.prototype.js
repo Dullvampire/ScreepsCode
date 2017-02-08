@@ -1,17 +1,15 @@
 module.exports = {
-    init: function (creep) {
+    init: '',
 
-    },
+    run: '',
 
-    run: function (creep) {
+    score: '',
 
-    },
-
-    score: function (creep) {
-        return 0;
-    },
+    callBack: '',
 
     priority: 0,
 
-    creepId: null
+    creepId: null,
+
+    data: {}
 };

@@ -3,13 +3,9 @@ if (!Game.taskManager) {
 }
 
 if (!Memory.tasks) {
-    Memory.tasks = {};
-}
-
-if (!Memory.taskNumber) {
-    Memory.taskNumber = 0;
+    Memory.tasks = [];
 }
 
 module.exports.loop = function () {
-
+    
 };
